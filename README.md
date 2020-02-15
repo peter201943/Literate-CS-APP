@@ -28,3 +28,13 @@ See [`CSAPP.C.md`](CSAPP.C.md) and [`CSAPP.H.md`](CSAPP.C.md).
  - https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504/ref=sr_1_1?keywords=C+Programming%3A+A+Modern+Approach%22&qid=1581787643&sr=8-1
 
 
+## Other Git Repos
+ - "Computer Systems APP" /lang=c
+ - https://github.com/sysprog21/datalab
+ - https://github.com/zxc479773533/CS-APP3e-labs
+ - https://github.com/carlosgaldino/cs-app
+ - https://github.com/lzh2nix/CS-APP
+ - https://github.com/caporta/cs-app
+ - https://github.com/kaka2634/CSAPP
+ - https://github.com/LukeRobbins2112/CS_APP
+ - https://github.com/spainisnotequal/cs-app
